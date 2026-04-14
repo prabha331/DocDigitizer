@@ -318,4 +318,4 @@ Built by **Prabha**
 B.Tech — Artificial Intelligence and Data Science
 Sri Venkateswara College of Engineering, Graduating 2026
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) · [GitHub](https://github.com/your-github)
+
