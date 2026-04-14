@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+chroma_db/
+test_data/
+*.db
+.DS_Store
+venv/
+dist/
+build/
